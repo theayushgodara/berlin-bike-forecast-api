@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+requests
+holidays
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+
+# development / exploration
+pytest
+httpx
+matplotlib
+jupyter
